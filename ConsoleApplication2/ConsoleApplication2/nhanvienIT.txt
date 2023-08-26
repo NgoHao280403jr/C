@@ -1,0 +1,7 @@
+6
+2001215751#Ngo Van Nhat Hao#19#1#Truong Phong#2000
+2001579654#Nguyen Van A#25#5#Nhan Vien#1500
+2015648132#Nguyen Van B#21#3#Nhan Vien#1500
+2001745132#Nguyen Van C#45#20#Giam Doc#3000
+2001234543#Nguyen Thi D#26#4#Nhan Vien#1500
+2001235456#Nguyen Thi E#23#3#Nhan Vien#1500

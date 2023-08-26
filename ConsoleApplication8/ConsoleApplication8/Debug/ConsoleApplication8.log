@@ -1,0 +1,52 @@
+﻿Build started 11/24/2022 5:33:56 PM.
+     1>Project "D:\hao\code 2013\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(42): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(102): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(115): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(117): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(120): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(139): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(140): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(145): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(149): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(151): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\hao\code 2013\consoleapplication8\consoleapplication8\source.cpp(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+       Link:
+         D:\visual 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hao\code 2013\ConsoleApplication8\Debug\ConsoleApplication8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\hao\code 2013\ConsoleApplication8\Debug\ConsoleApplication8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\hao\code 2013\ConsoleApplication8\Debug\ConsoleApplication8.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : D:\hao\code 2013\ConsoleApplication8\Debug\ConsoleApplication8.exe not found or not built by the last incremental link; performing full link
+         ConsoleApplication8.vcxproj -> D:\hao\code 2013\ConsoleApplication8\Debug\ConsoleApplication8.exe
+     1>Done Building Project "D:\hao\code 2013\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23

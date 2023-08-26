@@ -1,0 +1,11 @@
+10
+101#Nguyen A#2002#87
+102#Nguyen B#2003#75
+103#Nguyen C#2003#92
+104#Nguyen D#2003#85
+105#Nguyen E#2002#87
+106#Nguyen F#2002#83
+107#Nguyen G#2003#96
+108#Nguyen H#2003#93
+109#Nguyen I#2003#65
+110#Nguyen K#2002#55

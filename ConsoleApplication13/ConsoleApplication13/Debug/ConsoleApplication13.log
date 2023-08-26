@@ -1,0 +1,8 @@
+﻿Build started 12/20/2022 8:23:54 PM.
+     1>Project "D:\hao\code 2013\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v12.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(214,5): error MSB4175: The task factory "CodeTaskFactory" could not be loaded from the assembly "C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Build.Tasks.v12.0.dll". Could not load file or assembly 'file:///C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Build.Tasks.v12.0.dll' or one of its dependencies. The system cannot find the file specified.
+     1>Done Building Project "D:\hao\code 2013\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01

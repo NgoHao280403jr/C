@@ -1,0 +1,119 @@
+﻿Build started 7/1/2022 6:11:31 PM.
+     1>Project "D:\hao\code 2013\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual 2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BAITAPLON.cpp
+         BAITAPLON.cpp
+     1>BAITAPLON.cpp(191): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(393): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(402): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(410): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(414): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(416): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(418): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(422): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(426): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(430): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(434): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(438): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(448): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(472): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(476): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(480): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(485): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(497): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(507): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\visual 2013\VC\include\conio.h(131) : see declaration of 'getch'
+     1>BAITAPLON.cpp(117): warning C4101: 'max1' : unreferenced local variable
+     1>BAITAPLON.cpp(513): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(516): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>BAITAPLON.cpp(616): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(621): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(802): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(804): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(895): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>BAITAPLON.cpp(896): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>BAITAPLON.cpp(899): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>BAITAPLON.cpp(930): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(254) : see declaration of 'gets'
+     1>BAITAPLON.cpp(933): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(254) : see declaration of 'gets'
+     1>BAITAPLON.cpp(936): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 D:\visual 2013\VC\include\string.h(252) : see declaration of 'strcmpi'
+     1>BAITAPLON.cpp(1027): warning C4305: 'return' : truncation from 'double' to 'float'
+     1>BAITAPLON.cpp(1028): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>BAITAPLON.cpp(1058): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>BAITAPLON.cpp(1058): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>BAITAPLON.cpp(1130): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1272): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1277): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(254) : see declaration of 'gets'
+     1>BAITAPLON.cpp(1279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1281): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1283): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1285): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1288): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(254) : see declaration of 'gets'
+     1>BAITAPLON.cpp(1291): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(254) : see declaration of 'gets'
+     1>BAITAPLON.cpp(1298): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>BAITAPLON.cpp(1395): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1399): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 D:\visual 2013\VC\include\string.h(252) : see declaration of 'strcmpi'
+     1>BAITAPLON.cpp(1426): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual 2013\VC\include\stdio.h(283) : see declaration of 'scanf'
+     1>BAITAPLON.cpp(1431): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 D:\visual 2013\VC\include\string.h(252) : see declaration of 'strcmpi'
+     1>BAITAPLON.cpp(1437): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 D:\visual 2013\VC\include\string.h(252) : see declaration of 'strcmpi'
+       Link:
+         D:\visual 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hao\code 2013\ConsoleApplication3\Release\ConsoleApplication3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\hao\code 2013\ConsoleApplication3\Release\ConsoleApplication3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\hao\code 2013\ConsoleApplication3\Release\ConsoleApplication3.lib" /MACHINE:X86 /SAFESEH Release\BAITAPLON.obj
+         Generating code
+     1>d:\hao\code 2013\consoleapplication3\consoleapplication3\baitaplon.cpp(1174): warning C4715: 'nhiPhan' : not all control paths return a value
+     1>d:\hao\code 2013\consoleapplication3\consoleapplication3\baitaplon.cpp(1126): warning C4715: 'Bai19' : not all control paths return a value
+     1>d:\hao\code 2013\consoleapplication3\consoleapplication3\baitaplon.cpp(121): warning C4700: uninitialized local variable 'n' used
+     1>d:\hao\code 2013\consoleapplication3\consoleapplication3\baitaplon.cpp(121): warning C4700: uninitialized local variable 'x' used
+     1>d:\hao\code 2013\consoleapplication3\consoleapplication3\baitaplon.cpp(477): warning C4700: uninitialized local variable 'sdn' used
+         Finished generating code
+         ConsoleApplication3.vcxproj -> D:\hao\code 2013\ConsoleApplication3\Release\ConsoleApplication3.exe
+     1>Done Building Project "D:\hao\code 2013\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91

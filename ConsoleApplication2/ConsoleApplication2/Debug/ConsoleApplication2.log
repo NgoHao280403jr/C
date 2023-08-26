@@ -1,0 +1,55 @@
+﻿Build started 5/7/2022 10:40:03 PM.
+     1>Project "D:\hao\code 2013\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Baiktnopgiay.cpp
+         Baiktnopgiay.cpp
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(124): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(196): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(51): warning C4101: 'b' : unreferenced local variable
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(53): warning C4101: 'm' : unreferenced local variable
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(202): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(206): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(298): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(367): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(378): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(379): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(382): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(404): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 d:\visual 2013\vc\include\string.h(252) : see declaration of 'strcmpi'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(408): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 d:\visual 2013\vc\include\string.h(252) : see declaration of 'strcmpi'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(424): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(450): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(456): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(560): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(562): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(571): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(572): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(575): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(576): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(579): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\hao\code 2013\consoleapplication2\consoleapplication2\baiktnopgiay.cpp(624): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual 2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+       Link:
+         D:\visual 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\hao\code 2013\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\hao\code 2013\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\hao\code 2013\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\Baiktnopgiay.obj
+         LINK : D:\hao\code 2013\ConsoleApplication2\Debug\ConsoleApplication2.exe not found or not built by the last incremental link; performing full link
+         ConsoleApplication2.vcxproj -> D:\hao\code 2013\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Done Building Project "D:\hao\code 2013\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03

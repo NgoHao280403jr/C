@@ -1,0 +1,4 @@
+3
+101#Lam Dong#Da Lat#5000#58791
+102#Khanh Hoa#Nha Trang#4000#63212
+103#Gia Lai#Pleiku#2500#80004

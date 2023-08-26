@@ -1,0 +1,8 @@
+7
+100030;Nguyen Van Xuan;123, Q1, TP.HCM;1999;9.5
+100020;Nguyen Thi Ha;123, Q2, TP.My Tho;2000;8.5
+100050;Nguyen Van Thu;123, Q1, TP.HCM;2002;6.5
+100070;Nguyen Thi Dong;123, Q1, TP.Bien Hoa;1999;7.5
+100040;Nguyen Van Roi;123, Q1, TP.HCM;2001;8.5
+100010;Nguyen Van Lai;123, Q1, TP.Nha Trang;2003;9.8
+100090;Nguyen Thi Xuan;123, Q1, Khanh Hoa;1998;7.0
